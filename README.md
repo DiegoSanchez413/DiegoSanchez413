@@ -49,7 +49,7 @@
 -------------------
 <br>
 
-## 🥇 &nbsp; Diego's Stat Trophies
+## 🥇 &nbsp; Trophies
 
 <br>
 
