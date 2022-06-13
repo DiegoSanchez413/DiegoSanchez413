@@ -5,6 +5,9 @@
 ### 🤝🏻 &nbsp;Contact Me
 
 <p align="center">
+   <a href="https://github.com/DiegoSanchez413"  target="_blank">
+        <img src="https://gpvc.arturio.dev/DiegoSanchez413">
+   </a>
     <a href="https://www.linkedin.com/in/diego-sanchez-ing/"  target="_blank">
         <img src="https://img.shields.io/badge/-Diego%20Sánchez-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
     </a>
@@ -17,16 +20,11 @@
     <a href="https://www.facebook.com/dxnger23/"  target="_blank">
         <img src="https://img.shields.io/badge/-@DiegoSánchez-1877F2?style=flat&logo=Facebook&logoColor=white"/>
     </a>
-
-   <a href="https://github.com/DiegoSanchez413"  target="_blank">
-        <img src="https://gpvc.arturio.dev/DiegoSanchez413">
-   </a>
 </p>
 
 ### ⚙️ &nbsp; WakaTime Analytics
 
 <!--START_SECTION:waka-->
-
 ```text
 PHP              6 hrs 44 mins   █████████████▒░░░░░░░░░░░   53.66 %
 Vue.js           3 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.91 %
@@ -35,61 +33,6 @@ Blade Template   1 hr 5 mins     ██▒░░░░░░░░░░░░�
 CSS              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 Bash             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--END_SECTION:waka-->
 
 <table border="0" align="center">
@@ -158,12 +101,11 @@ Bash             9 mins          ▒░░░░░░░░░░░░░░�
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/DiegoSanchez413">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiegoSanchez413&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiegoSanchez413&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="center">
+![Diego's github stats](https://github-readme-stats.vercel.app/api?username=DiegoSanchez413&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Diego's streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoSanchez413&theme=radical&include_all_commits=true&count_private=true)
+</div>
 
  <br> 
  <hr>
