@@ -3,11 +3,6 @@ author: Athul Cyriac Ajay
 description: "Add a Wakatime Coding Activity graph in your Readme"
 
 inputs:
-  SHOW_LINES_OF_CODE:
-      description: "Flag can be set to True to show the Lines of code writen till date"
-      default: "True"
-      required: true
-
   GH_TOKEN:
     description: "GitHub access token with Repo scope"
     default: ${{ github.token }}
