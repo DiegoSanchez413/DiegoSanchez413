@@ -1,3 +1,4 @@
+<!-- https://github.com/athul/waka-readme -->
 
 ### ⚙️ &nbsp; Diego Sánchez's WakaTime Stats
 <!--START_SECTION:waka-->
