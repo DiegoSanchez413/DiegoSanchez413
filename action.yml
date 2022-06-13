@@ -110,7 +110,7 @@ inputs:
   SYMBOL_VERSION:
     required: false
     description: "Version of the symbol block and empty of the progress bar"
-    default: "1"
+    default: "3"
 
 runs:
   using: 'docker'

@@ -1,5 +1,6 @@
 <!-- https://github.com/athul/waka-readme -->
 <!-- https://github.com/anuraghazra/github-readme-stats#language-card-exclusive-options -->
+<!-- principal https://github.com/anmol098/waka-readme-stats -->
 
 ### ⚙️ &nbsp; Diego Sánchez's WakaTime Stats
 <!--START_SECTION:waka-->
@@ -12,6 +13,67 @@ Blade Template   1 hr 5 mins     ██▒░░░░░░░░░░░░�
 CSS              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 Bash             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--END_SECTION:waka-->
 
