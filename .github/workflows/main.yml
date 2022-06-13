@@ -9,9 +9,9 @@ jobs:
     name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-      - uses:  DiegoSanchez413/DiegoSanchez413@master
+      - uses:  DiegoSanchez413/DiegoSanchez413@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          BRANCH: "master"
+          BRANCH: "main"
           COMMIT_MSG: "Update stats"
