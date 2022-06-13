@@ -12,8 +12,8 @@ jobs:
     steps:
       - uses: DiegoSanchez413/DiegoSanchez413@main
         with:
-          WAKATIME_API_KEY: $ {{ 3be336a4-c0a1-4f84-945b-88df425cce9f }}
-          GH_TOKEN: ${{ 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 }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "True"
