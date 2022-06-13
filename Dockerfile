@@ -1,29 +1,18 @@
-FROM python:3.10.2-slim-bullseye
+FROM nikolaik/python-nodejs:python3.9-nodejs16
 
-ENV PYTHONFAULTHANDLER=1 \
-    PYTHONUNBUFFERED=1 \
-    PYTHONHASHSEED=random \
-    PYTHONDONTWRITEBYTECODE=1 \
-    # pip:
-    PIP_NO_CACHE_DIR=off \
-    PIP_DISABLE_PIP_VERSION_CHECK=on \
-    PIP_DEFAULT_TIMEOUT=100 \
-    # poetry:
-    POETRY_VERSION=1.1.13 \
-    POETRY_NO_INTERACTION=1 \
-    POETRY_CACHE_DIR='/var/cache/pypoetry' \
-    PATH="$PATH:/root/.local/bin"
-
-# install poetry
-# RUN curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
-RUN pip install pipx
-RUN pipx install "poetry==$POETRY_VERSION"
-RUN pipx ensurepath
-
-# install dependencies
-COPY pyproject.toml poetry.lock /
-RUN poetry install --no-dev --no-root --no-interaction --no-ansi
-
-# copy and run program
+ADD requirements.txt /requirements.txt
 ADD main.py /main.py
-CMD [ "poetry", "run", "python", "/main.py" ]
+ADD loc.py /loc.py
+ADD make_bar_graph.py /make_bar_graph.py
+ADD colors.json /colors.json
+ADD translation.json /translation.json
+
+ENV PATH "$PATH:/home/root/.npm-global/bin"
+
+RUN python -m pip install --upgrade pip wheel setuptools
+RUN pip install -r requirements.txt
+RUN npm -g config set user root
+RUN npm i -g npm@latest
+RUN npm i -g vega vega-lite vega-cli canvas
+
+ENTRYPOINT ["python", "/main.py"]

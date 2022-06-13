@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@DiegoSanchez413 
-anmol098
-/
-waka-readme-stats
-Public
-Code
-Issues
-28
-Pull requests
-11
-Actions
-Projects
-Wiki
-Security
-Insights
-waka-readme-stats/main.py /
-@anmol098
-anmol098 Added .env.example file
-…
-Latest commit 0b02c08 17 hours ago
- History
- 22 contributors
-@anmol098@prabhatdev@brignano@oHTGo@ajmeese7@aaditkamat@DanRowe@tlatkdgus1@Swenchao@dmego@Tkd-Alex@henryboisdequin
-583 lines (506 sloc)  22.5 KB
-
-
 '''
 Readme Development Metrics With waka time progress
 '''
@@ -614,16 +581,3 @@ if __name__ == '__main__':
     except Exception as e:
         traceback.print_exc()
         print("Exception Occurred " + str(e))
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
