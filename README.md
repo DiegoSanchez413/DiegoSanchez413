@@ -82,7 +82,7 @@
 
 
 
-<p align="center" width="100">
+<p width="100%">
     <div align=center>
       <a href="#" title="Diego's Stats">
           <img align="left" width=49% src="https://github-readme-stats.vercel.app/api?username=DiegoSanchez413&show_icons=true&theme=radical&count_private=true&include_all_commits=true"  alt="Stats" />
