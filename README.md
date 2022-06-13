@@ -101,11 +101,12 @@ Bash             9 mins          ▒░░░░░░░░░░░░░░�
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-![Diego's github stats](https://github-readme-stats.vercel.app/api?username=DiegoSanchez413&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Diego's streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoSanchez413&theme=radical&include_all_commits=true&count_private=true)
-</div>
+<p align="center">
+<a href="https://github.com/DiegoSanchez413">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiegoSanchez413&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiegoSanchez413&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
  <br> 
  <hr>
