@@ -3,7 +3,7 @@
 <!-- principal https://github.com/anmol098/waka-readme-stats -->
 <!-- https://github.com/anuraghazra/github-readme-stats#language-card-exclusive-options -->
 <!-- https://github.com/muety/wakapi -->
-
+<!-- https://github.com/durgeshsamariya -->
 <p align="center">
    <a href="https://github.com/DiegoSanchez413"  target="_blank">
         <img src="https://gpvc.arturio.dev/DiegoSanchez413">
@@ -23,10 +23,9 @@
 </p>
 
 
+## Languages and Tools  
 
 <div align="center">
-
-## Languages and Tools  
 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
@@ -45,10 +44,14 @@
  ![Java](https://img.shields.io/badge/Java-C3002D?style=for-the-badge&logo=java&logoColor=FFFFFF)
  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
  
+ </div>
+ 
 -------------------
- <div>
+<br>
 
 ## 🥇 &nbsp; Diego's Stat Trophies
+
+<br>
 
 <p align="center">
     <div align=center>
@@ -58,53 +61,49 @@
     </div>
 </p>
 
+<br>
+
 -------------------
-### ⚙️ &nbsp; WakaTime Analytics
+## ⚙️ &nbsp; WakaTime Analytics
 
+<br>
 
+<div align="center">
 
 [![diego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiegoSa413)](https://github.com/DiegoSanchez413/github-readme-stats)
 
+</div>
+<br>
 
 -------------------
 ## ⚙️ &nbsp; GitHub Analytics
 
-
-
-<table align="center">
-<tr>
-<th>
-
-![Diego github stats](https://github-readme-stats.vercel.app/api?username=DiegoSanchez413&show_icons=true&theme=radical&count_private=true&include_all_commits=true) 
-</th>
-
-<th>
-
-![Diego github streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoSanchez413&theme=radical&include_all_commits=true&count_private=true)
-</th>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-<a href="https://github.com/DiegoSanchez413">
-<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiegoSanchez413&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</td>
-</tr>
-</table>
-
 <br>
- <hr>
+
+
+
+<p align="center" width="100">
+    <div align=center>
+      <a href="#" title="Diego's Stats">
+          <img align="left" width=49% src="https://github-readme-stats.vercel.app/api?username=DiegoSanchez413&show_icons=true&theme=radical&count_private=true&include_all_commits=true"  alt="Stats" />
+      </a>
+      <a href="#" title="Diego's Contributions">
+          <img align="rigth" width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoSanchez413&theme=radical&include_all_commits=true&count_private=true"  alt="Contributions" />
+      </a>
+    </div>
+</p>
+
 <br>
 
 -------------------
+
 ## 📈 &nbsp; Contribution Graphic
 
-
-
 <br>
+
 <p align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DiegoSanchez413&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DiegoSanchez413&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+</p>
 
  <br>
