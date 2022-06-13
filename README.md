@@ -22,7 +22,7 @@
 
 ### ⚙️ &nbsp; WakaTime Analytics
 
-[![diego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiegoSanchez413)](https://github.com/anuraghazra/github-readme-stats)
+[![diego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiegoSa413)](https://github.com/DiegoSanchez413/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
