@@ -49,9 +49,14 @@ Bash             9 mins          ▒░░░░░░░░░░░░░░�
 </table>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
 </p>
 <br>
+
+### 🥇 &nbsp; Diego's Stat Trophies
 
 <p align="center">
     <div align=center>
@@ -61,18 +66,7 @@ Bash             9 mins          ▒░░░░░░░░░░░░░░�
     </div>
 </p>
 
-<br>
-<hr>
-<br>
 
-<p align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DiegoSanchez413&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) </p>
-
- <br> 
- <hr>
- <br>
- <br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -110,3 +104,20 @@ Bash             9 mins          ▒░░░░░░░░░░░░░░�
 
  <br> 
  <hr>
+
+
+
+### 📈 &nbsp; Diego Sánchez Activity Graph
+
+<br>
+<hr>
+<br>
+
+<p align="center">
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DiegoSanchez413&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) </p>
+
+ <br> 
+ <hr>
+ <br>
+ <br>
