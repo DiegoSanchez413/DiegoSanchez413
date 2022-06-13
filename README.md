@@ -4,6 +4,14 @@
 ### ⚙️ &nbsp; Diego Sánchez's WakaTime Stats
 <!--START_SECTION:waka-->
 
+```text
+PHP              6 hrs 44 mins   █████████████▒░░░░░░░░░░░   53.66 %
+Vue.js           3 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.91 %
+JSON             1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Blade Template   1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+CSS              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Bash             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+```
 
 <!--END_SECTION:waka-->
 
