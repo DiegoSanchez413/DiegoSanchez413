@@ -5,18 +5,14 @@ on:
   schedule:
     - cron: "0 */2 * * *"
 jobs:
-  update-readme:
-    name: Update the WakaTime Stat
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - name: My first step
-        uses: ./.github/workflows/action.yml
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          BRANCH: "main"
-          COMMIT_MSG: "Update stats"
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_PROFILE_VIEWS: "True"
+  validate-environment:
+    uses: ./.github/workflows/action.yml
+    name: Update WakaTime Stats
+    with:
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        BRANCH: "main"
+        COMMIT_MSG: "Update stats"
+        SHOW_OS: "True"
+        SHOW_PROJECTS: "True"
+        SHOW_PROFILE_VIEWS: "True"
