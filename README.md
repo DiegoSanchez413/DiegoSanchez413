@@ -22,6 +22,9 @@
 
 ### ⚙️ &nbsp; WakaTime Analytics
 
+[![diego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiegoSanchez413)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--START_SECTION:waka-->
 ```text
 PHP              6 hrs 44 mins   █████████████▒░░░░░░░░░░░   53.66 %
