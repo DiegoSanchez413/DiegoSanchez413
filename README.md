@@ -42,6 +42,8 @@ Bash             9 mins          ▒░░░░░░░░░░░░░░�
   
 -------------------
   
+### 🥇 &nbsp; Diego's GitHub Stats
+
 ![Diego github stats](https://github-readme-stats.vercel.app/api?username=DiegoSanchez413&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![Diego github streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoSanchez413&theme=radical&include_all_commits=true&count_private=true)
@@ -49,8 +51,6 @@ Bash             9 mins          ▒░░░░░░░░░░░░░░�
  <div>
 
 <hr>
-
-<br>
 
 ### 🥇 &nbsp; Diego's Stat Trophies
 
