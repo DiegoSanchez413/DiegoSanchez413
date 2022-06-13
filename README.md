@@ -26,7 +26,10 @@
 
 <div align="center">
 
-### Languages and Tools  
+## Languages and Tools  
+
+-------------------
+
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -46,11 +49,8 @@
  
 -------------------
  <div>
- <br>
 
 ## 🥇 &nbsp; Diego's Stat Trophies
-
-<br>
 
 <p align="center">
     <div align=center>
@@ -61,6 +61,8 @@
 </p>
 
 ### ⚙️ &nbsp; WakaTime Analytics
+
+-------------------
 
 [![diego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiegoSa413)](https://github.com/DiegoSanchez413/github-readme-stats)
 
@@ -97,6 +99,8 @@
 <br>
 
 ## 📈 &nbsp; Contribution Graphic
+
+-------------------
 
 <br>
 <p align="center">
