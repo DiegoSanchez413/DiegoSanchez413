@@ -9,7 +9,7 @@ jobs:
     name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-      - uses:  DiegoSanchez413/DiegoSanchez413@main
+      - uses:  ./.github/workflows/main.yml
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
