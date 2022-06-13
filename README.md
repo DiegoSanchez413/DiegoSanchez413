@@ -22,11 +22,7 @@
     </a>
 </p>
 
-### ⚙️ &nbsp; WakaTime Analytics
 
-[![diego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiegoSa413)](https://github.com/DiegoSanchez413/github-readme-stats)
-
--------------------
 
 <div align="center">
 
@@ -44,9 +40,9 @@
  ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+ ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+ ![Java](https://img.shields.io/badge/Java-C3002D?style=for-the-badge&logo=java&logoColor=FFFFFF)
+ ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
  
 -------------------
  <div>
@@ -64,10 +60,15 @@
     </div>
 </p>
 
+### ⚙️ &nbsp; WakaTime Analytics
+
+[![diego's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DiegoSa413)](https://github.com/DiegoSanchez413/github-readme-stats)
+
+
 
 ## ⚙️ &nbsp; GitHub Analytics
 
-<br>
+-------------------
 
 <table align="center">
 <tr>
@@ -102,7 +103,4 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DiegoSanchez413&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) </p>
 
- <br> 
- <hr>
- <br>
  <br>
