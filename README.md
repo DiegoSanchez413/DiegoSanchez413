@@ -85,10 +85,10 @@
 <p width="100%">
     <div align=center>
       <a href="#" title="Diego's Stats">
-          <img align="left" width=49% src="https://github-readme-stats.vercel.app/api?username=DiegoSanchez413&show_icons=true&theme=radical&count_private=true&include_all_commits=true"  alt="Stats" />
+          <img align="left" width=45% src="https://github-readme-stats.vercel.app/api?username=DiegoSanchez413&show_icons=true&theme=radical&count_private=true&include_all_commits=true"  alt="Stats" />
       </a>
       <a href="#" title="Diego's Contributions">
-          <img align="rigth" width=49% src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoSanchez413&theme=radical&include_all_commits=true&count_private=true"  alt="Contributions" />
+          <img align="rigth" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoSanchez413&theme=radical&include_all_commits=true&count_private=true"  alt="Contributions" />
       </a>
     </div>
 </p>
