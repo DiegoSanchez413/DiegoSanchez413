@@ -12,7 +12,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v1
+      - uses: DiegoSanchez413/DiegoSanchez413@main
       - name: My first step
         uses: ./.github/workflows/action.yml
         with:
