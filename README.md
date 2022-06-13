@@ -2,7 +2,29 @@
 <!-- https://github.com/anuraghazra/github-readme-stats#language-card-exclusive-options -->
 <!-- principal https://github.com/anmol098/waka-readme-stats -->
 
-### ⚙️ &nbsp; Diego Sánchez's WakaTime Stats
+### 🤝🏻 &nbsp;Contact Me
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/diego-sanchez-ing/"  target="_blank">
+        <img src="https://img.shields.io/badge/-Diego%20Sánchez-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:diegopalominosa@gmail.com"  target="_blank">
+        <img src="https://img.shields.io/badge/-diegopalominosa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/diegosa413/"  target="_blank">
+        <img src="https://img.shields.io/badge/-@diegosa413-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+    </a>
+    <a href="https://www.facebook.com/dxnger23/"  target="_blank">
+        <img src="https://img.shields.io/badge/-@DiegoSánchez-1877F2?style=flat&logo=Facebook&logoColor=white"/>
+    </a>
+
+   <a href="https://github.com/DiegoSanchez413"  target="_blank">
+        <img src="https://gpvc.arturio.dev/DiegoSanchez413">
+   </a>
+</p>
+
+### ⚙️ &nbsp; WakaTime Analytics
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -68,17 +90,7 @@ Bash             9 mins          ▒░░░░░░░░░░░░░░�
 
 
 
-
-
-
-
-
-
-
 <!--END_SECTION:waka-->
-
-
-
 
 <table border="0" align="center">
     <tr border="0">
@@ -112,21 +124,12 @@ Bash             9 mins          ▒░░░░░░░░░░░░░░�
 
 <p align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DiegoSanchez413&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DiegoSanchez413&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) </p>
 
  <br> 
  <hr>
  <br>
  <br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/DiegoSanchez413/count.svg" />  
-</p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -164,20 +167,3 @@ Bash             9 mins          ▒░░░░░░░░░░░░░░�
 
  <br> 
  <hr>
-
-### 🤝🏻 &nbsp;Contact Me
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/diego-sanchez-ing/"  target="_blank">
-        <img src="https://img.shields.io/badge/-Diego%20Sánchez-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:diegopalominosa@gmail.com"  target="_blank">
-        <img src="https://img.shields.io/badge/-diegopalominosa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/diegosa413/"  target="_blank">
-        <img src="https://img.shields.io/badge/-@diegosa413-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-    </a>
-    <a href="https://www.facebook.com/dxnger23/"  target="_blank">
-        <img src="https://img.shields.io/badge/-@DiegoSánchez-1877F2?style=flat&logo=Facebook&logoColor=white"/>
-    </a>
-</p>
