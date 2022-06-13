@@ -1,16 +1,8 @@
 
 ### ⚙️ &nbsp; Diego Sánchez's WakaTime Stats
 <!--START_SECTION:waka-->
-<img
-  src="https://github.com/DiegoSanchez413/DiegoSanchez413/blob/main/images/stat.svg"
-  alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
-SHOW_TOTAL_CODE_TIME 
+
+
 <!--END_SECTION:waka-->
 
 
