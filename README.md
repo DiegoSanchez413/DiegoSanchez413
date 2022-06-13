@@ -1,4 +1,5 @@
 <!-- https://github.com/athul/waka-readme -->
+<!-- https://github.com/anuraghazra/github-readme-stats#language-card-exclusive-options -->
 
 ### ⚙️ &nbsp; Diego Sánchez's WakaTime Stats
 <!--START_SECTION:waka-->
