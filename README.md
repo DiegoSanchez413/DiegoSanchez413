@@ -42,6 +42,7 @@
  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
  ![Java](https://img.shields.io/badge/Java-C3002D?style=for-the-badge&logo=java&logoColor=FFFFFF)
  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
+ ![Vue JS](https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vue.js&logoColor=41B883)
  
  </div>
  
