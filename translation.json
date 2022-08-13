@@ -366,8 +366,8 @@
         "public repositories": "%d Repositorios Públicos",
         "private repository": "%d Repositorio Privado",
         "private repositories": "%d Repositorios Privados",
-        "I am an Early": "Soy diurno 🐤",
-        "I am a Night": "Soy nocturno 🦉"
+        "I am an Early": "Soy diurno",
+        "I am a Night": "Soy nocturno"
     },
     "gl": {
         "Monday": "Luns",
