@@ -46,7 +46,8 @@
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
- 
+ ![Flutter](https://img.shields.io/badge/Flutter-0078d7?style=for-the-badge&logo=flutter&logoColor=white)
+ ![Django](https://img.shields.io/badge/Django-002918?style=for-the-badge&logo=django&logoColor=white)
  </div>
  
 -------------------
