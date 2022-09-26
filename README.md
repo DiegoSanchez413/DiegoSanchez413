@@ -29,6 +29,7 @@
 <div align="center">
 
  ![Laravel](https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=Laravel&logoColor=fb503b)
+ ![Codeigniter](https://img.shields.io/badge/Codeigniter-e74122?style=for-the-badge&logo=codeigniter&logoColor=white)
  ![Vue JS](https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vue.js&logoColor=41B883)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
