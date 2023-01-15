@@ -109,7 +109,7 @@
 
 <p align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DiegoSanchez413&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DiegoSanchez413&bg_color=ffffff&color=0d0d0d&line=ef2525&point=151316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
  <br>
